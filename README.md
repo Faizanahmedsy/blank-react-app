@@ -3,4 +3,6 @@ it creates a react app with vite, + javascript but it doesn't have unnecessary f
 
 instead of using npx create-react-app or npx create vite@latest
 
-just git clone this repository and you are good to go
+just git clone this repository 
+and then npm install 
+and you are good to go
